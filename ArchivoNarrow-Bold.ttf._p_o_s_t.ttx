@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="NULL"/>
+      <psName name="Euro"/>
+      <psName name="uni00A0"/>
+      <psName name="uni00AD"/>
+      <psName name="macron"/>
+      <psName name="periodcentered"/>
+      <psName name="Abreve"/>
+      <psName name="Amacron"/>
+      <psName name="Aogonek"/>
+      <psName name="Aringacute"/>
+      <psName name="Ccircumflex"/>
+      <psName name="Cdotaccent"/>
+      <psName name="Dcaron"/>
+      <psName name="Dcroat"/>
+      <psName name="Ebreve"/>
+      <psName name="Ecaron"/>
+      <psName name="Edotaccent"/>
+      <psName name="Emacron"/>
+      <psName name="Eng"/>
+      <psName name="Eogonek"/>
+      <psName name="Gcircumflex"/>
+      <psName name="Gcommaaccent"/>
+      <psName name="Gdotaccent"/>
+      <psName name="Hbar"/>
+      <psName name="Hcircumflex"/>
+      <psName name="IJ"/>
+      <psName name="Ibreve"/>
+      <psName name="Idotaccent"/>
+      <psName name="Imacron"/>
+      <psName name="Iogonek"/>
+      <psName name="Itilde"/>
+      <psName name="Jcircumflex"/>
+      <psName name="Kcommaaccent"/>
+      <psName name="Lacute"/>
+      <psName name="Lcaron"/>
+      <psName name="Lcommaaccent"/>
+      <psName name="Ldot"/>
+      <psName name="Nacute"/>
+      <psName name="Ncaron"/>
+      <psName name="Ncommaaccent"/>
+      <psName name="Obreve"/>
+      <psName name="Ohungarumlaut"/>
+      <psName name="Omacron"/>
+      <psName name="Oslashacute"/>
+      <psName name="Racute"/>
+      <psName name="Rcaron"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="Sacute"/>
+      <psName name="Scircumflex"/>
+      <psName name="Tbar"/>
+      <psName name="Tcaron"/>
+      <psName name="Tcommaaccent"/>
+      <psName name="Ubreve"/>
+      <psName name="Uhungarumlaut"/>
+      <psName name="Umacron"/>
+      <psName name="Uogonek"/>
+      <psName name="Uring"/>
+      <psName name="Utilde"/>
+      <psName name="Wacute"/>
+      <psName name="Wcircumflex"/>
+      <psName name="Wdieresis"/>
+      <psName name="Wgrave"/>
+      <psName name="Ycircumflex"/>
+      <psName name="Ygrave"/>
+      <psName name="Zacute"/>
+      <psName name="Zdotaccent"/>
+      <psName name="abreve"/>
+      <psName name="aeacute"/>
+      <psName name="amacron"/>
+      <psName name="aogonek"/>
+      <psName name="aringacute"/>
+      <psName name="ccircumflex"/>
+      <psName name="cdotaccent"/>
+      <psName name="dcaron"/>
+      <psName name="dcroat"/>
+      <psName name="ebreve"/>
+      <psName name="ecaron"/>
+      <psName name="edotaccent"/>
+      <psName name="emacron"/>
+      <psName name="eng"/>
+      <psName name="eogonek"/>
+      <psName name="gcircumflex"/>
+      <psName name="gcommaaccent"/>
+      <psName name="gdotaccent"/>
+      <psName name="hbar"/>
+      <psName name="hcircumflex"/>
+      <psName name="ibreve"/>
+      <psName name="ij"/>
+      <psName name="imacron"/>
+      <psName name="iogonek"/>
+      <psName name="itilde"/>
+      <psName name="jcircumflex"/>
+      <psName name="kcommaaccent"/>
+      <psName name="kgreenlandic"/>
+      <psName name="lacute"/>
+      <psName name="lcaron"/>
+      <psName name="lcommaaccent"/>
+      <psName name="ldot"/>
+      <psName name="longs"/>
+      <psName name="nacute"/>
+      <psName name="napostrophe"/>
+      <psName name="ncaron"/>
+      <psName name="ncommaaccent"/>
+      <psName name="obreve"/>
+      <psName name="ohungarumlaut"/>
+      <psName name="omacron"/>
+      <psName name="oslashacute"/>
+      <psName name="racute"/>
+      <psName name="rcaron"/>
+      <psName name="rcommaaccent"/>
+      <psName name="sacute"/>
+      <psName name="scircumflex"/>
+      <psName name="tbar"/>
+      <psName name="tcaron"/>
+      <psName name="tcommaaccent"/>
+      <psName name="ubreve"/>
+      <psName name="uhungarumlaut"/>
+      <psName name="umacron"/>
+      <psName name="uni207F"/>
+      <psName name="uogonek"/>
+      <psName name="uring"/>
+      <psName name="utilde"/>
+      <psName name="wacute"/>
+      <psName name="wcircumflex"/>
+      <psName name="wdieresis"/>
+      <psName name="wgrave"/>
+      <psName name="ycircumflex"/>
+      <psName name="ygrave"/>
+      <psName name="zacute"/>
+      <psName name="zdotaccent"/>
+      <psName name="uniFB01"/>
+      <psName name="uniFB02"/>
+      <psName name="Delta"/>
+      <psName name="oneeighth"/>
+      <psName name="threeeighths"/>
+      <psName name="fiveeighths"/>
+      <psName name="seveneighths"/>
+      <psName name="exclamdbl"/>
+      <psName name="minute"/>
+      <psName name="second"/>
+      <psName name="underscoredbl"/>
+      <psName name="uni203E"/>
+      <psName name="quotereversed"/>
+      <psName name="lira"/>
+      <psName name="peseta"/>
+      <psName name="equivalence"/>
+      <psName name="intersection"/>
+      <psName name="orthogonal"/>
+      <psName name="uni2219"/>
+      <psName name="arrowboth"/>
+      <psName name="arrowdown"/>
+      <psName name="arrowleft"/>
+      <psName name="arrowright"/>
+      <psName name="arrowup"/>
+      <psName name="arrowupdn"/>
+      <psName name="estimated"/>
+      <psName name="commaaccent"/>
+      <psName name="uni02C9"/>
+      <psName name="AEacute"/>
+      <psName name="afii00208"/>
+      <psName name="afii61248"/>
+      <psName name="afii61289"/>
+      <psName name="afii61352"/>
+      <psName name="arrowupdnbse"/>
+      <psName name="house"/>
+      <psName name="integralbt"/>
+      <psName name="integraltp"/>
+      <psName name="revlogicalnot"/>
+      <psName name="uni2215"/>
+    </extraNames>
+  </post>
+
+</ttFont>
