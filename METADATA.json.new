@@ -1,0 +1,50 @@
+{
+  "name": "Archivo Narrow",
+  "designer": "Omnibus-Type",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 53136,
+  "fonts": [
+    {
+      "name": "Archivo Narrow",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ArchivoNarrow-Regular.ttf",
+      "postScriptName": "ArchivoNarrow-Regular",
+      "fullName": "Archivo Narrow Regular",
+      "copyright": "Copyright (c) 2012, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),with Reserved Font Name: Archivo"
+    },
+    {
+      "name": "Archivo Narrow",
+      "style": "italic",
+      "weight": 700,
+      "filename": "ArchivoNarrow-BoldItalic.ttf",
+      "postScriptName": "ArchivoNarrow-BoldItalic",
+      "fullName": "Archivo Narrow Bold Italic",
+      "copyright": "Copyright (c) 2012, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),with Reserved Font Name: Archivo"
+    },
+    {
+      "name": "Archivo Narrow",
+      "style": "normal",
+      "weight": 700,
+      "filename": "ArchivoNarrow-Bold.ttf",
+      "postScriptName": "ArchivoNarrow-Bold",
+      "fullName": "Archivo Narrow Bold",
+      "copyright": "Copyright (c) 2012, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),with Reserved Font Name: Archivo"
+    },
+    {
+      "name": "Archivo Narrow",
+      "style": "italic",
+      "weight": 400,
+      "filename": "ArchivoNarrow-Italic.ttf",
+      "postScriptName": "ArchivoNarrow-Italic",
+      "fullName": "Archivo Narrow Italic",
+      "copyright": "Copyright (c) 2012, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),with Reserved Font Name: Archivo"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-09-18"
+}

@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [ArchivoNarrow-Italic.ttf.ttx, ArchivoNarrow-BoldItalic.ttf.ttx, ArchivoNarrow-Regular.ttf.ttx,
+  ArchivoNarrow-Bold.ttf.ttx, src/ArchivoNarrow-Bold.otf.ttx, src/ArchivoNarrow-Italic.otf.ttx,
+  src/ArchivoNarrow-BoldItalic.otf.ttx, src/ArchivoNarrow-Regular.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
